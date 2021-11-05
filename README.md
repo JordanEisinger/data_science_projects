@@ -1,4 +1,4 @@
 # python_projects
-Fun python data science projects
+Repo for fun python data science projects I can work on in my own time.
 
-Test Test Test
+
