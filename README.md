@@ -14,16 +14,6 @@ This is a repo for fun python DS projects that I  work on in my free time. 😄
 <br/>
 <br/>
 
-## GitHub Stats! 
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaneisinger&show_icons=true&theme=radical)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaneisinger&layout=compact)](https://github.com/jordaneisinger/github-readme-stats)
-
-
-
-
-
 [linkedin]: https://linkedin.com/in/jordaneisinger
 [instagram]: https://www.instagram.com/jmeguitar
 
