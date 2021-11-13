@@ -1,6 +1,6 @@
 ## Hello! I'm Jordan and welcome to my Python Data Science (DS) Repository! 👋🏻
 
-This is a repo for fun python DS projects that I  work on in my free time. 😄 
+This is a repo full of python DS projects that I work on for freelance clients and for fun! 😄 
 
 #### About Me:
 - 💼 I work as a Data Scientist for an online dating company 💕
