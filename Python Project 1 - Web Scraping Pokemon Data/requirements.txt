@@ -1,0 +1,14 @@
+###### Requirements without Version Specifiers ######
+pandas
+numpy
+jupyter
+matplotlib
+seaborn
+statsmodels
+sklearn
+requests
+pickle
+html5lib
+bs4
+
+###### Requirements with Version Specifiers ######
