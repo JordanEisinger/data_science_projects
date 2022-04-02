@@ -11,20 +11,10 @@ Each folder is labeled according to the primary language used in the project:
 - *"JP#" --> Java Project*
 - *"MP" --> Markdown Project*
 
-#### About Me:
-- 💼 I work as a Data Scientist for an online dating website 💕
-- 🌱 Currently learning a bit of everything!
-- 🎸 When I'm not doing data things, I play guitar in a rock band!
-- 🗓 2022 Goal: I'm new to GitHub, so my goal for the remainder of 2022 is to learn as much as I can!
+### Current projects in this repo:
+- *[PP1 - Web Scraping Pokemon Data](https://github.com/JordanEisinger/data_science_projects/tree/main/PP1%20-%20Web%20Scraping%20Pokemon%20Data)*
+- *[PP2 - Stock Market Web App](https://github.com/JordanEisinger/data_science_projects/tree/main/PP2%20-%20Stock%20Market%20Web%20App)*
 
-## Connect with me! 
-[<img align="left" alt="jordaneisinger | LinkedIn" span title="LinkedIn" width="25px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="jordaneisinger | Instagram" span title="Instagram" width="25px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
-
-<br/>
-<br/>
-
-[linkedin]: https://linkedin.com/in/jordaneisinger
-[instagram]: https://www.instagram.com/jmeguitar
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaneisinger&layout=compact)](https://github.com/jordaneisinger/github-readme-stats)
 
 
