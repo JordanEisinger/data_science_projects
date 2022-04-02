@@ -1,9 +1,17 @@
 ## Hello! Welcome to my Data Science (DS) Repository! 👋🏻
 
 This repo is full of fun and interesting DS projects that I work on in my free time 😄
-For right now, these are all replication of projects I have found online.
+<br/>
+- *Every project in this repo is a replication of a project(s) I have found online (Medium, Toward Data Science, etc.)*
+- *A future goal is to add my own original projects to this repo (or create a new one)...stay tuned for updates!*
+<br/>
 
-#### Little About Me:
+Each folder is labeled according to the primary language used in the project:
+- *"PP#" --> Python Project*
+- *"JP#" --> Java Project*
+- *"MP" --> Markdown Project*
+
+#### About Me:
 - 💼 I work as a Data Scientist for an online dating website 💕
 - 🌱 Currently learning a bit of everything!
 - 🎸 When I'm not doing data things, I play guitar in a rock band!
