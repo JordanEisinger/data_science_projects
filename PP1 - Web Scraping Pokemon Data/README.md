@@ -19,7 +19,7 @@
 
 * The idea for this project came from the following [blog post.](https://xandermadsen.com/2020/09/07/pokemon-data-analysis-part-1-scraping-a-dataset-from-bulbapedia/)
 
-## Resoruces
+## Resources
 
 * *Python Libraries*:
   * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
