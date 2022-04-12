@@ -15,5 +15,3 @@ Each folder is labeled according to the primary language used in the project:
 
 - *[PP1 - Web Scraping Pokemon Data](https://github.com/JordanEisinger/data_science_projects/tree/main/PP1%20-%20Web%20Scraping%20Pokemon%20Data)*
 - *[PP2 - Stock Market Web App](https://github.com/JordanEisinger/data_science_projects/tree/main/PP2%20-%20Stock%20Market%20Web%20App)*
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaneisinger&layout=compact)](https://github.com/jordaneisinger/github-readme-stats)
